@@ -178,4 +178,22 @@ Added a comprehensive `README.md` fully documenting the project: what ParCheesy 
 
 ---
 
+## 📜 Parcheesy_changelog.md added — Project Change History
+`2026-03-06`
+
+Added a dedicated `Parcheesy_changelog.md` file to track the evolution of the project.  
+This file records updates, fixes, structural changes, and development notes over time, providing a clear chronological history of modifications made to ParCheesy. It helps keep documentation organized and allows contributors to quickly understand what has changed between development stages.
+
+---
+
+## 🔤 Project_Files_Renamed — Consistent "ParCheesy" Naming
+`2026-03-06`
+
+Renamed the main project files to consistently use the **ParCheesy** project name instead of the previous `parchisi` naming. This aligns the file structure with the project branding and improves clarity across the repository.
+
+
+This change ensures naming consistency throughout the project and makes the repository structure clearer and easier to navigate.
+
+---
+
 *🎲 Built with pure HTML + CSS + JS. No libraries, no frameworks, no shortcuts.*
